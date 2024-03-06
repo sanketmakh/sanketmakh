@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
 <h3 align="center">A passionate Full Stack developer from India.Tech savy with problem solving and learning attitude.</h3>
-<img style="display: inline-block; margin-left: auto; margin-right: auto;" align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZtY2M4aWxmM2g3dDliMGo2YzFzMWFoYm5iaDgwM3hmNHFvaTBzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"/>
+
+<div style="text-align: center;">
+  <img style="display: inline-block;" align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZtY2M4aWxmM2g3dDliMGo2YzFzMWFoYm5iaDgwM3hmNHFvaTBzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"/>
+</div>
 
 
 
