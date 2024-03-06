@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
 <h3 align="center">A passionate Full Stack developer from India.Tech savy with problem solving and learning attitude.</h3>
-<img style="display: inline-block; margin-left: auto; margin-right: auto;" align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
+<img style="display: inline-block; margin-left: auto; margin-right: auto;" align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZtY2M4aWxmM2g3dDliMGo2YzFzMWFoYm5iaDgwM3hmNHFvaTBzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"/>
 
 
 
